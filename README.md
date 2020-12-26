@@ -1,5 +1,5 @@
 # Remote-Clipboard
-### A remote clipboard tool that enables to copy from source to destination
+### A remote clipboard tool that enables to copy from source system to destination system through pooling
 
 ## Installation
 
